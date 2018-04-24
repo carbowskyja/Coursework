@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anna/HSE/Bio/Householder/householder.h
+matrix.h
+C:/Users/Anna/HSE/Bio/Householder/matrix.h
+
+C:/Users/Anna/HSE/Bio/Householder/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+householder.h
+C:/Users/Anna/HSE/Bio/Householder/householder.h
+
+C:/Users/Anna/HSE/Bio/Householder/matrix.h
+vector
+-
+math.h
+-
+algorithm
+-
+iostream
+-
+
